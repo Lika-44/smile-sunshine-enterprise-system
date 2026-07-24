@@ -44,3 +44,4 @@ _ReSharper*/
 *.doc
 *.docx
 *.pdf
+!Report.pdf
