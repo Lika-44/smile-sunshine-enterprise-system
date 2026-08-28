@@ -124,8 +124,5 @@ This software was developed as a three-person academic team project. The public 
 
 ## My Contributions
 
-> Replace this section before publishing. List only your verified contributions, such as specific screens, data-access classes, database design work, UML diagrams, testing, or documentation. Do not claim the entire team project.
-
-- TODO: Describe the modules you personally implemented.
-- TODO: Describe your database or UML contributions.
-- TODO: Link the relevant commits or pull requests after version control is established.
+- Contributed to UI design and user-related data modelling for the WinForms prototype.
+- Participated in requirements analysis and project documentation, including UML/ERD artefacts, interface specifications, test cases, and a user guide.
